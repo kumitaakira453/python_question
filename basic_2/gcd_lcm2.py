@@ -18,10 +18,12 @@ start_time = time.time()
 
 
 # 最大公約数
+# greatest common divisor
 gcd_num = gcd(num1, num2)
 print(f"{num1}と{num2}の最大公約数:{gcd_num}")
 
 # 最小公倍数
+# least　common multiple
 lcm_num = lcm(num1, num2)
 print(f"{num1}と{num2}の最小公倍数:{lcm_num}")
 
